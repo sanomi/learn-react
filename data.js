@@ -1,4 +1,4 @@
-{
+export default {
   "posts": [
     {
       "title": "S’more to love across all your screens",
